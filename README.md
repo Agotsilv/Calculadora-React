@@ -39,3 +39,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 ---
 
 Feito por Tiago Oliveira
+<a href="https://www.linkedin.com/in/agotsilva/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-agotsilva-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
